@@ -1,1 +1,1 @@
-# Machine LEarning Experiments
+# Machine Learning Experiments
