@@ -1,1 +1,1 @@
-# CS634-CNN-RNN
+# Machine LEarning Experiments
